@@ -1,3 +1,5 @@
+"""Module Docstring"""
 
 def test_something():
-    assert True == False
+    """Doc string"""
+    assert True
